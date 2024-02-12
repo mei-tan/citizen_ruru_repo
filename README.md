@@ -14,5 +14,9 @@ In this project, R language was written in Rstudio to run simulations for modell
 #### Set Up
 1. Ensure that you have installed RStudio (version 4.3.2 or later), either Jupyter Notebook or software that can run Python language and ArcGIS Pro (version 3.0.2 or later).
 2. Download "data".
-3. Download the coding files and ensure they are located in the same folder  as your "data" file.
+3. Download the R and ipynb files and ensure they are located in the same folder as the downloaded "data" folder.
 4. Run the code.
+
+#### About the data files
+- In the data folder, the "ruru_obs.csv"  file contains data about the observations exported from the Citizen Ruru i-Naturalist project page.
+- After processing the raw data in "ruru_obs.csv" with the code from "data_processing.ipynb", it is saved as "surveyed_obs_cleaned.csv" in the "data" folder. This saved file has its data cleaned so it can be used in ArcGIS Pro.
