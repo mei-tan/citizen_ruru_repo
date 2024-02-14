@@ -1,37 +1,43 @@
 id,observed_on,time_observed_at,description,place_guess,latitude,longitude,survey_observation,call_type,direction_to_call,repeat_observation
-191655352,11/21/2023,21:07:04,Poneke gives a hoot project ,"Khandallah Park, Wellington, Wellington, NZ",-41.24164999,174.787957,yes,,,
-191655883,11/21/2023,21:09:54,,"Khandallah Park, Wellington, Wellington, NZ",-41.2416732,174.7879466,yes,,,
-191656729,11/21/2023,21:10:37,,"Khandallah, Wellington 6035, New Zealand",-41.2415925,174.7878765,yes,,,
-191655600,11/21/2023,21:25:04,,"Khandallah, Wellington 6035, New Zealand",-41.24159246,174.7878745,yes,,,
-191656804,11/21/2023,21:33:30,"Heard more pork call
+191655883,11/21/2023,21:05:13,,"Khandallah Park, Wellington, Wellington, NZ",-41.2416732039,174.7879466314,yes,,,
+191656804,11/21/2023,21:25:47,"Heard more pork call
 Far away, direction hard to estimate","Station Road (near 7), Khandallah, Wellington 6035, New Zealand",-41.2419132,174.7930676,yes,Morepork,N,yes
-193366756,12/08/2023,21:40:32,,"Huntleigh Park, Wellington, Wellington, NZ",-41.25336824,174.7641023,yes,Morepork,W,no
-193367376,12/08/2023,21:43:26,,"Huntleigh Park, Wellington, Wellington, NZ",-41.25335025,174.7641307,yes,Morepork,S,yes
-194318735,12/18/2023,21:57:48,,"Hataitai Park, Wellington, Wellington, NZ",-41.30992542,174.7893319,yes,Morepork,E,yes
-194343572,12/19/2023,21:41:35,Albemarle Reserve ,"Northland, Wellington 6012, New Zealand",-41.27674989,174.7577506,yes,Not recorded,Not recorded,yes
-194417147,12/20/2023,21:24:14,Call observed 47 minutes into hour of listening for Citizen Ruru project ,"Khandallah, Wellington 6035, New Zealand",-41.2527696,174.8004346,yes,Morepork,S,maybe
-194416519,12/20/2023,21:44:19,Observed call 37 minutes into listening hour for Citizen Ruru,"Khandallah, Wellington 6035, New Zealand",-41.2526394,174.8003851,yes,Morepork,N,no
-194417545,12/20/2023,21:46:19,Call observed 58 minutes into hour of listening for Citizen Ruru project ,"Khandallah, Wellington 6035, New Zealand",-41.2526442,174.8003782,yes,Morepork,W,maybe
-194494713,12/21/2023,21:56:02,,"4018841, Mākara, Wellington 6972, New Zealand",-41.29563839,174.6889851,yes,Morepork,W,maybe
-194563678,12/22/2023,21:28:11,"Same one again, with inimitable ""more pork"" call","West Taratahi, New Zealand",-40.92081914,175.4804229,yes,Morepork,NE,yes
-194563625,12/22/2023,21:53:31,With accompanying tūī and/or korimako ,"West Taratahi, New Zealand",-40.92091138,175.4804834,yes,Not recorded,Not recorded,no
-194570444,12/23/2023,21:42:24,,"Te Ika-a-Māui/North Island, Wellington, Wellington, NZ",-41.30375304,174.822536,yes,Not recorded,Not recorded,yes
-194639745,12/23/2023,21:57:25,,"Te Ika-a-Māui/North Island, Wellington, Wellington, NZ",-41.32267207,174.7792484,yes,Morepork,SE,no
-194877748,12/26/2023,21:46:29,,"4018841, Mākara, Wellington 6972, New Zealand",-41.29557457,174.6892329,yes,Morepork,N,maybe
-194876770,12/26/2023,21:51:40,"Heard a Ruru calling in the distance, maybe up Sutherland Road. Would be too far away to get a sound recording","Wellington, NZ-WG, NZ",-41.328057,174.793602,yes,Morepork,NW,maybe
-194969841,12/27/2023,21:23:23,"Heard ruru for several minutes
-","Te Ika-a-Māui/North Island, Wellington, Wellington, NZ",-41.33282817,174.769992,yes,Morepork,S,yes
-194965561,12/27/2023,21:24:37,"""more pork"" call. Hoping to add to Citizen Rūrū project ","West Taratahi, New Zealand",-40.92084834,175.4804493,yes,Morepork,N,maybe
-195055811,12/28/2023,21:20:20,,"Miramar, Wellington 6022, New Zealand",-41.3030147,174.8264841,yes,Morepork,NW,maybe
-195351872,12/31/2023,21:41:04,,"Wellington, NZ-WG, NZ",-41.30289,174.826545,yes,Morepork,NW,maybe
-195555175,01/02/2024,21:22:13,,"West Taratahi, New Zealand",-40.92082343,175.4803334,yes,Morepork,W,maybe
-195456703,01/02/2024,21:25:48,Recorded at night,"Wellington, NZ",-41.33533368,174.9605335,yes,Morepork,S,no
-195646494,01/03/2024,21:01:01,"Heard two Ruru’s calling (Morepork call). 
+191656729,11/21/2023,21:50:26,,"Khandallah, Wellington 6035, New Zealand",-41.2415925041,174.787876457,yes,,,
+191655600,11/21/2023,21:51:11,,"Khandallah, Wellington 6035, New Zealand",-41.2415924622,174.7878745291,yes,,,
+191655352,11/21/2023,21:59:37,Poneke gives a hoot project ,"Khandallah Park, Wellington, Wellington, NZ",-41.2416499863,174.7879570179,yes,,,
+193366756,12/08/2023,21:13:45,,"Huntleigh Park, Wellington, Wellington, NZ",-41.2533682399,174.7641022784,yes,Morepork,W,no
+193367376,12/08/2023,21:21:35,,"Huntleigh Park, Wellington, Wellington, NZ",-41.2533502457,174.7641307403,yes,Morepork,S,yes
+194318735,12/18/2023,21:48:23,,"Hataitai Park, Wellington, Wellington, NZ",-41.3099254156,174.7893319004,yes,Morepork,E,yes
+194343572,12/19/2023,21:17:14,Albemarle Reserve ,"Northland, Wellington 6012, New Zealand",-41.276749894,174.7577506397,yes,Not recorded,Not recorded,yes
+194416519,12/20/2023,21:18:16,Observed call 37 minutes into listening hour for Citizen Ruru,"Khandallah, Wellington 6035, New Zealand",-41.2526394,174.8003851,yes,Morepork,N,no
+194417147,12/20/2023,21:19:38,Call observed 47 minutes into hour of listening for Citizen Ruru project ,"Khandallah, Wellington 6035, New Zealand",-41.2527696,174.8004346,yes,Morepork,S,maybe
+194417545,12/20/2023,21:43:45,Call observed 58 minutes into hour of listening for Citizen Ruru project ,"Khandallah, Wellington 6035, New Zealand",-41.2526442,174.8003782,yes,Morepork,W,maybe
+194494713,12/21/2023,21:02:10,,"4018841, Mākara, Wellington 6972, New Zealand",-41.29563839,174.68898507,yes,Morepork,W,maybe
+194563625,12/22/2023,21:09:09,With accompanying tūī and/or korimako ,"West Taratahi, New Zealand",-40.9209113824,175.4804834464,yes,Not recorded,Not recorded,no
+194563678,12/22/2023,21:47:59,"Same one again, with inimitable ""more pork"" call","West Taratahi, New Zealand",-40.9208191405,175.4804228819,yes,Morepork,NE,yes
+194639745,12/23/2023,21:53:15,,"Te Ika-a-Māui/North Island, Wellington, Wellington, NZ",-41.3226720703,174.7792483795,yes,Morepork,SE,no
+194570444,12/23/2023,21:56:45,,"Te Ika-a-Māui/North Island, Wellington, Wellington, NZ",-41.3037530367,174.8225360336,yes,Not recorded,Not recorded,yes
+194877748,12/26/2023,21:06:29,,"4018841, Mākara, Wellington 6972, New Zealand",-41.29557457,174.68923292,yes,Morepork,N,maybe
+194876770,12/26/2023,21:36:42,"Heard a Ruru calling in the distance, maybe up Sutherland Road. Would be too far away to get a sound recording","Wellington, NZ-WG, NZ",-41.328057,174.793602,yes,Morepork,NW,maybe
+194969841,12/27/2023,21:38:58,"Heard ruru for several minutes
+","Te Ika-a-Māui/North Island, Wellington, Wellington, NZ",-41.3328281653,174.7699920056,yes,Morepork,S,yes
+194965561,12/27/2023,21:43:49,"""more pork"" call. Hoping to add to Citizen Rūrū project ","West Taratahi, New Zealand",-40.9208483373,175.4804492856,yes,Morepork,N,maybe
+195055811,12/28/2023,21:48:48,,"Miramar, Wellington 6022, New Zealand",-41.3030147,174.8264841,yes,Morepork,NW,maybe
+195351872,12/31/2023,21:09:21,,"Wellington, NZ-WG, NZ",-41.30289,174.826545,yes,Morepork,NW,maybe
+195555175,01/02/2024,21:01:50,,"West Taratahi, New Zealand",-40.9208234349,175.4803333893,yes,Morepork,W,maybe
+195456703,01/02/2024,21:50:13,Recorded at night,"Wellington, NZ",-41.335333678,174.9605334828,yes,Morepork,S,no
+195647138,01/03/2024,21:11:50,"Two, from S & SE, more pork calls","Tararua Forest Park, NZ-WG-CR, NZ-WG, NZ",-40.9194049402,175.4802846979,yes,Trill,NE,maybe
+195646494,01/03/2024,21:18:58,"Heard two Ruru’s calling (Morepork call). 
 
-There was a stream nearby so the audio might not be as clear.","Khandallah Park, Wellington, Wellington, NZ",-41.24078737,174.7866492,yes,Morepork,Not recorded,yes
-195647154,01/03/2024,21:22:35,"At least two, one ""more pork"" one low trill ","West Taratahi, New Zealand",-40.92087344,175.4804703,yes,Morepork,NW,maybe
-195647459,01/03/2024,21:30:48,Heard one or two Ruru’s (morepork call),"Khandallah Park, Wellington, Wellington, NZ",-41.24178367,174.7879833,yes,Morepork,Not recorded,yes
-195647170,01/03/2024,21:37:23,,"West Taratahi, New Zealand",-40.9209053,175.4805042,yes,Morepork,Not recorded,maybe
-195647138,01/03/2024,21:38:09,"Two, from S & SE, more pork calls","Tararua Forest Park, NZ-WG-CR, NZ-WG, NZ",-40.91940494,175.4802847,yes,Trill,NE,maybe
-195648818,01/03/2024,21:58:11,,"Wadestown, Wellington 6012, New Zealand",-41.26254833,174.7739833,yes,Morepork,Not recorded,yes
-196107465,01/08/2024,21:02:15,Adult morepork call. Too windy for recording.,"Northland, Wellington 6012, New Zealand",-41.27664877,174.757188,yes,Morepork,N,yes
+There was a stream nearby so the audio might not be as clear.","Khandallah Park, Wellington, Wellington, NZ",-41.2407873684,174.7866491556,yes,Morepork,Not recorded,yes
+195647154,01/03/2024,21:22:36,"At least two, one ""more pork"" one low trill ","West Taratahi, New Zealand",-40.9208734395,175.4804702838,yes,Morepork,NW,maybe
+195648818,01/03/2024,21:33:34,,"Wadestown, Wellington 6012, New Zealand",-41.2625483333,174.7739833333,yes,Morepork,Not recorded,yes
+195647170,01/03/2024,21:46:56,,"West Taratahi, New Zealand",-40.9209053,175.4805042,yes,Morepork,Not recorded,maybe
+195647459,01/03/2024,21:51:41,Heard one or two Ruru’s (morepork call),"Khandallah Park, Wellington, Wellington, NZ",-41.2417836671,174.7879833263,yes,Morepork,Not recorded,yes
+196107465,01/08/2024,21:50:56,Adult morepork call. Too windy for recording.,"Northland, Wellington 6012, New Zealand",-41.2766487664,174.7571879625,yes,Morepork,N,yes
+196903282,01/17/2024,21:38:35,,"4018841, Mākara, Wellington 6972, New Zealand",-41.29563472,174.68921745,yes,Morepork,Not recorded,no
+196978045,01/18/2024,21:56:01,,"4018841, Mākara, Wellington 6972, New Zealand",-41.2955238668,174.6893897653,yes,Morepork,E,maybe
+197298075,01/22/2024,21:28:47,,"Te Ika-a-Māui/North Island, Wellington, Wellington, NZ",-41.1748755303,174.8125066796,yes,Morepork,W,yes
+197447553,01/24/2024,21:49:05,,"Carterton 5791, New Zealand",-40.9207033535,175.4803359781,yes,Ro,N,no
+198044130,01/31/2024,21:06:49,2 separate birds,"4018841, Mākara, Wellington 6972, New Zealand",-41.29553354,174.68913138,yes,Morepork,Not recorded,no
+198634183,02/07/2024,21:01:14,,"4018841, Mākara, Wellington 6972, New Zealand",-41.2955174,174.68948972,yes,Morepork,Not recorded,maybe
